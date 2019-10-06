@@ -27,6 +27,12 @@ And underneath it, it says:
 
 Congratulations! You've just forked a repository and can now start making changes to it. 
 
+## What if you're the owner of the repository?
+
+If you are the owner of the repository, you will not be able to fork it. Only other people can. If you hover over the **Fork** button, you will see this:
+
+![Fork](https://github.com/jeanshanchik/KVKRepo/blob/master/Git%20Collaboration%20Files/images/forkingexample.png)
+
 
 # Cloning Explained
 
@@ -63,3 +69,9 @@ For example, if you wanted to make changes to an existing repository, you would 
 7. Your command line should show which folder you're in, and which repository branch you are on. In this case, it should say **"master"**.
 
 Congratulations, you are now ready to make changes in your clone. When you've made the changes you want, you can push them to the forked repository and then follow-up with a pull request to have them added to the original source code.
+
+**Definition Recap:**
+
+**Fork** = Copy of the main repository/project
+
+**Clone** = Copy of the fork onto local machine to make changes
