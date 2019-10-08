@@ -4,7 +4,7 @@
 
 ![Git Image](https://github.com/enforcer20/KVKRepo/blob/master/VI_image/gitimage.png)
 
-1. **Version Control**
+1. **Version Control** sdfg
 Git offers a remote repository which is stored in a server and a local repository stored in local computers of all developers. Small to large scale projects can generally have multiple developers working parallely. Git's capability to branch provide developers with an isolated environment to make changes to their code. Branching reduces corrupting the production level code that is in master and gives developers their own workspace. This helps a company be more organized and productive. There are many instances where multiple developers working at the same time can rewrite another developer's code and lose considerable progress.
 2. **Flexibility**
 Project requirements are rarely concrete. Git's version control system allows developers to revert and go back to an older version of the code in case of any changes. This in turn helps retain a solid customer base but makes the companies easier to rely on.
