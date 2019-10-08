@@ -13,5 +13,5 @@
 ### Changelog
 
 1. [Karan Changelog](https://github.com/enforcer20/KVKRepo/blob/master/CommandLineTerms/ChangeLog_KaranWalanj.md)
-2. [Vishwanath Changelog](https://github.com/enforcer20/KVKRepo/blob/master/gitFlow/ChangeLog_VishwanathEzhil.md)
+2. [Vishwanath Changelog](htts://github.com/enforcer20/KVKRepo/blob/master/gitFlow/ChangeLog_VishwanathEzhil.md)
 3. [Kelley Changelog](https://github.com/enforcer20/KVKRepo/blob/master/Git%20Collaboration%20Files/ChangeLog_KelleyShann.md)
