@@ -38,3 +38,7 @@ All notable changes of Karan Walanj's work will be documented in this file.
 ## 10/06/2019
 - Created readme.md file in the repo
 - All 3 team members linked their repos to the readme file. 
+
+## 10/08/2019
+- Created a writeup of git features that help a company be productive and competitive
+- pushed the write up into master
