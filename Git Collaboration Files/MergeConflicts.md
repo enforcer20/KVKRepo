@@ -5,6 +5,8 @@
 
 Let's say you want to add a feature to the original repository, or fix a bug. You can create a branch to work on your feature/bug without ever disturbing the master branch. Because it is so simple to create one, it is probably a good idea to do it if you are working on a large project.
 
+**Branch definition**: A branch is used to isolate your work without affecting the master branch of the project. Every repository has a default master branch, and others can be created. You then merge your branch into the master by using a pull request.
+
 If you want to create a branch while in the command line, follow these steps:
 
 ### Steps
@@ -48,6 +50,8 @@ _Merging your new feature to the master branch_
 Congratulations, you're now able to create a branch and do a simple merge. There will be times, however, you will run into merge conflicts. This is especially prevalent the more complex the projects become. 
 
 ## Merge Conflicts
+
+**Merge:** If you wish to know more about merge basics, please follow this link: [Merges](https://github.com/enforcer20/KVKRepo/blob/master/gitFlow/merge.md) 
 
 What causes a merge conflict? When faced with one, it is best to understand what actually happened. For example, did someone delete a file you're working on? Or did someone modify a line of code that you are currently working on? Essentially, a conflict arises when Git has competing commits and needs someone's input to determine which commit to incorporate into the final merge.
 

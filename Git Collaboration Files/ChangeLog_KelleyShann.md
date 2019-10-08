@@ -13,14 +13,26 @@ All notable changes to **Git Collaboration Files** will be documented in this fi
  
 ## 10/01/2019
  
-1. Added text and markdown to **PullRequests.md**.
+1. Added Feature: text and markdown to **PullRequests.md**.
  
 ## 10/06/2019
  
-1. Added steps and reference link to **PullRequests.md**.
+1. Added Feature to **PullRequests.md**.
 2. Edited markdown errors on **PullRequests.md**.
 3. Added text to **MergeConflicts.md**.
 4. Edted markdown errors on **MergeConflicts.md**.
 5. Committed changes to fork ```jeanshanchik/KVKRepo```.
 6. Added changelog file template in folder.
 7. Commited changes to fork ```jeanshanchik/KVKRepo```.
+8. Added Feature to **AddingCollaborator.md**
+9. Added Task (photo) to **ForkingvsCloning.md**
+10. Task: Changed text to links in **CollaborationOverview.md**.
+11. Added Feature to **ForkingvsCloning.md**
+12. Added Feature to **PullRequests.md**
+13. Added Feature to **AddingCollaborator.md**
+14. Added Feature to **MergeConflicts.md**
+15. Added Hot Fix to **PullRequests.md**
+16. Added Feature to **PullRequests.md**
+17. Added Feature to **Collaboration Overview.md**
+18. Added Feature to **ForkingvsCloning.md**
+19. Added Feature to **MergeConflicts.md**
