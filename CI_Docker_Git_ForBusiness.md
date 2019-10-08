@@ -120,7 +120,7 @@ Docker is composed of 4 components:
 3. Docker registries
 4. Containers
 
-**Docker Daemon** or server is responsible for all the actions that are related to containers. The daemon receives the commands from the Docker client through CLI or REST API’s
+**Docker Daemon** or server is responsible for all the actions that are related to containers. The daemon receives the commands from the Docker client through [CLI](https://www.w3schools.com/whatis/whatis_cli.asp) or [REST API’s](https://www.sitepoint.com/developers-rest-api/)
 
 **Images** are the basic building blocks of Docker. Containers are built using images. Images can be configured with applications and used as a template for creating containers. It is organized in a layered fashion. Every change in an image is added as a layer on top of it.
 
