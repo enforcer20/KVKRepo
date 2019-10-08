@@ -107,6 +107,8 @@ Author: Vishwanath Ezhil
 
 Docker is a popular open-source project based on Linux containers. Docker is basically a container engine which uses the Linux Kernel features like namespaces and control groups to create containers on top of an operating system and automates application deployment on the container.
 
+<img src="https://github.com/enforcer20/KVKRepo/blob/master/gitFlow/Screenshots/docker.png" width="300">
+
 ## What is a linux container
 
 A Linux container, contains applications in a way that keep them isolated from the host system that they run on. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
