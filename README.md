@@ -9,6 +9,7 @@
 1. [VI & Basic Commands](https://github.com/enforcer20/KVKRepo/blob/master/CommandLineTerms/Vi.md)
 2. [gitFlow & Git Commands](https://github.com/enforcer20/KVKRepo/blob/master/gitFlow/gitFlow.md)
 3. [Git Collaboration Overview](https://github.com/enforcer20/KVKRepo/blob/master/Git%20Collaboration%20Files/CollaborationOverview.md)
+4. [Python Terms](https://github.com/enforcer20/KVKRepo/tree/master/Python%20Terms)
 
 ### Changelog
 
