@@ -12,9 +12,6 @@ def __init__(self):
     # body of the constructor
 ```
 
-<img src ="https://github.com/vishwa742/KVKRepo/blob/master/python_image/instantiate.png">
-    
-
 ### Types of constructors:
 
 **Default constructor:** The default constructor is simple constructor which doesn’t accept any arguments.It’s definition has only one argument which is a reference to the instance being constructed.
@@ -24,3 +21,5 @@ def __init__(self):
 ### Sources
 
 1. [Source #1](https://www.geeksforgeeks.org/constructors-in-python/)
+
+<img src ="https://github.com/vishwa742/KVKRepo/blob/master/python_image/instantiate.png">
