@@ -5,7 +5,7 @@ Decorators are very powerful and useful tool in Python since it allows programme
 
 In Decorators, functions are taken as the argument into another function and then called inside the wrapper function.
 
-<img src = " ">
+<img src = "https://github.com/vishwa742/KVKRepo/blob/master/python_image/decorator.png">
 
 ### Sources
 
