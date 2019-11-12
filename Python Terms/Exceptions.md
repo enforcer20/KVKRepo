@@ -5,7 +5,7 @@ In computer programming, unit testing is a software testing method by which indi
 
 ### Raising an Exception
 
-** Syntax **
+**Syntax**
 ```
 raise [Exception [, args [, traceback]]]
 ```
