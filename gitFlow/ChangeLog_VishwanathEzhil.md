@@ -33,3 +33,8 @@ All notable changes of Vishwanath Ezhil's work will be documented in this file.
 ## 10/05/2019
 - Added masterbranch.md file and filled out it content
 - Added sources to the files
+
+
+## 10/08/2019
+- Added content for Docker
+- Added image for docker
