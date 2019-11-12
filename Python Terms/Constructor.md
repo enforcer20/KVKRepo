@@ -12,7 +12,7 @@ def __init__(self):
     # body of the constructor
 ```
 
-<img src =" ">
+<img src ="https://github.com/vishwa742/KVKRepo/blob/master/python_image/instantiate.png">
     
 
 ### Types of constructors:
